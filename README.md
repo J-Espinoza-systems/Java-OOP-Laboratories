@@ -4,7 +4,7 @@ Este repositorio contiene una serie de laboratorios y ejercicios prácticos desa
 
 ---
 
-### 🛠️ Tecnologías Utilizadas
+###  Tecnologías Utilizadas
 * **Lenguaje:** `Java`
 * **Entorno de Desarrollo:** `IntelliJ IDEA`
 * **Control de Versiones:** `Git & GitHub`
@@ -13,7 +13,7 @@ Este repositorio contiene una serie de laboratorios y ejercicios prácticos desa
 
 ###  Proyectos Incluidos
 
-#### 1. 🏎️ Sistema de Gestión de Vehículos
+#### 1.  Sistema de Gestión de Vehículos
 Un ejercicio enfocado en la **Herencia** y el **Polimorfismo**.
 * **Conceptos clave:** Uso de `super()`, `@Override`, y manejo de colecciones con `ArrayList`.
 * **Funcionalidad:** Menú interactivo para registrar Motos y Autos, gestionando atributos específicos como cilindrada y número de puertas.
